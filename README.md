@@ -1,5 +1,5 @@
 # AUTHO-SHARE-FB
-Bot Auto Share FB
+Bot Auto Share FB Version 4.2
 
 1.pkg update && pkg upgrade
 
@@ -13,4 +13,4 @@ Bot Auto Share FB
 
 6.pip install rich && pip install bs4
 
-7.python2 Share.py 
+7.python Share.py 
